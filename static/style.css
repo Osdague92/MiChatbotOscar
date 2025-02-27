@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('/static/src/img/fondo.png'); /* Cambia por tu imagen */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.chat-container {
+    width: 800px;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo semitransparente */
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-box {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    background-color: #fafafa;
+    border-bottom: 1px solid #ddd;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow-x: hidden; 
+}
+
+.input-container {
+    display: flex;
+    padding: 10px;
+    background-color: white;
+    border-top: 1px solid #ddd;
+    border-radius: 0 0 10px 10px;
+}
+
+.user-message {
+    align-self: flex-end; /* Alinea a la derecha */
+    max-width: 70%; /* Limita el ancho máximo del mensaje */
+}
+
+.user-message p {
+    background-color: #d1ecf1;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0;
+    color: #0c5460;
+    font-size: 14px;
+}
+
+.bot-message {
+    align-self: flex-start; /* Alinea a la izquierda */
+    max-width: 70%; /* Limita el ancho máximo del mensaje */
+}
+
+.bot-message p {
+    background-color: #e2e3e5;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0;
+    color: #495057;
+    font-size: 14px;
+}
+
+#send-button {
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#send-button:hover {
+    background-color: #0056b3;
+}

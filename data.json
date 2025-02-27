@@ -1,0 +1,492 @@
+[
+{
+    "question": "Tengo una queja, ¿cómo la presento?",
+    "answer": "Lamentamos los inconvenientes. ¿Podrías darnos más detalles para resolver tu queja?",
+    "category": "queja"
+},
+{
+    "question": "¿Cómo puedo presentar un reclamo?",
+    "answer": "Vamos a revisar tu reclamo. Por favor, proporciona más información.",
+    "category": "reclamo"
+},
+{
+    "question": "¿Cómo solicito información?",
+    "answer": "Entendido. Estamos procesando tu solicitud de información.",
+    "category": "petición"
+},
+{
+    "question": "¿Cómo finalizo la interacción?",
+    "answer": "Gracias por contactarnos. ¡Hasta luego!",
+    "category": "despedida"
+},
+{
+    "question": "¿Cómo puedo contactarlos?",
+    "answer": "Puedes contactarnos al 3013777673.",
+    "category": "información de contacto"
+},
+{
+    "question": "¿Cuál es el número de teléfono?",
+    "answer": "Puedes contactarnos al 3152698756.",
+    "category": "información de contacto"
+},
+{
+    "question": "¿Cuál es el horario de atención?",
+    "answer": "Nuestro horario de atención es de lunes a viernes, de 9:00 a 18:00.",
+    "category": "horario de atención"
+},
+{
+    "question": "¿En qué días están abiertos?",
+    "answer": "Nuestro horario de atención es de lunes a viernes, de 9:00 a 18:00.",
+    "category": "horario de atención"
+},
+{
+    "question": "¿Cuánto cuesta el producto?",
+    "answer": "El precio del producto es de $99.99.",
+    "category": "precios"
+},
+{
+    "question": "¿Cuál es el precio del servicio?",
+    "answer": "El precio del servicio varía según las características solicitadas.",
+    "category": "precios"
+},
+{
+    "question": "¿Cuál es la política de devoluciones?",
+    "answer": "Puedes devolver el producto dentro de los 30 días posteriores a la compra.",
+    "category": "política de devolución"
+},
+{
+    "question": "¿Puedo devolver el producto?",
+    "answer": "Puedes devolver el producto dentro de los 30 días posteriores a la compra.",
+    "category": "política de devolución"
+},
+{
+    "question": "Tengo un problema técnico",
+    "answer": "Para soporte técnico, por favor visita nuestro centro de ayuda en [enlace].",
+    "category": "soporte técnico"
+},
+{
+    "question": "¿Cómo puedo solucionar un error?",
+    "answer": "Para soporte técnico, por favor visita nuestro centro de ayuda en [enlace].",
+    "category": "soporte técnico"
+},
+{
+    "question": "¿Qué es un patrón de banderín?",
+    "answer": "Un patrón de banderín es un patrón de continuación de tendencia caracterizado por un movimiento de precios consolidado dentro de un rango estrecho en forma de triángulo, que sigue a un fuerte movimiento direccional.",
+    "category": "análisis técnico"
+},
+{
+    "question": "¿Qué es un patrón de triángulo simétrico?",
+    "answer": "Un patrón de triángulo simétrico es un patrón de consolidación que muestra líneas de tendencia convergentes, indicando una incertidumbre en el mercado antes de una posible ruptura.",
+    "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es un patrón de cuña ascendente?",
+  "answer": "Un patrón de cuña ascendente es un patrón bajista que sugiere una debilidad a pesar de las fluctuaciones menores al alza, culminando típicamente en una ruptura a la baja.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es un patrón de cuña descendente?",
+  "answer": "Un patrón de cuña descendente es un patrón alcista que se caracteriza por una tendencia al alza a pesar de pequeñas caídas, indicando una potencial ruptura al alza.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es un patrón de rectángulo?",
+  "answer": "Un patrón de rectángulo muestra un movimiento de precios consolidado dentro de un rango horizontal definido por niveles de soporte y resistencia, sugiriendo una continuación de la tendencia actual o una pausa antes de un nuevo movimiento.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué son los niveles de soporte y resistencia dinámicos?",
+  "answer": "Los niveles de soporte y resistencia dinámicos se basan en medias móviles o bandas de Bollinger, adaptándose a los cambios en el precio y la volatilidad.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es el análisis de Elliott Wave?",
+  "answer": "El análisis de Elliott Wave es una teoría que postula que los mercados financieros se mueven en patrones cíclicos basados en impulsos y correcciones, que se pueden utilizar para predecir el futuro movimiento del precio.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es el análisis de ciclos?",
+  "answer": "El análisis de ciclos identifica patrones repetitivos en el movimiento de los precios a lo largo del tiempo, utilizando datos históricos para predecir futuros movimientos.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es el análisis de volumen?",
+  "answer": "El análisis de volumen utiliza el volumen de negociación para confirmar las señales del precio y determinar la fuerza de una tendencia.",
+  "category": "análisis técnico"
+},
+{
+  "question": "¿Qué es la divergencia bajista?",
+  "answer": "Una divergencia bajista ocurre cuando el precio de un activo crea nuevos máximos, pero el indicador de momento no lo hace, sugiriendo una posible inversión de la tendencia.",
+  "category": "indicadores"
+},
+{
+  "question": "¿Qué es la convergencia alcista?",
+  "answer": "Una convergencia alcista ocurre cuando el precio de un activo crea nuevos mínimos, y el indicador de momento también crea nuevos mínimos, confirmando la tendencia.",
+  "category": "indicadores"
+},
+{
+  "question": "¿Qué es el Average True Range (ATR)?",
+  "answer": "El Average True Range (ATR) mide la volatilidad de un activo, mostrando el rango promedio del precio durante un periodo específico.",
+  "category": "indicadores"
+},
+{
+  "question": "¿Qué es el Aroon?",
+  "answer": "El Aroon es un oscilador que mide la fuerza de una tendencia y determina la cercanía de los precios a sus máximos y mínimos recientes.",
+  "category": "indicadores"
+},
+{
+  "question": "¿Qué es el Keltner Channel?",
+  "answer": "El Keltner Channel es un indicador de volatilidad que utiliza una media móvil exponencial y un ATR para determinar bandas de precios.",
+  "category": "indicadores"
+},
+{
+  "question": "¿Qué es el Ichimoku Cloud?",
+  "answer": "El Ichimoku Cloud es un indicador complejo que proporciona información sobre la tendencia, el soporte, la resistencia y el momento.",
+  "category": "indicadores"
+},
+{
+  "question": "¿Qué es la tasa de cambio?",
+  "answer": "La tasa de cambio es la relación entre dos monedas, indicando la cantidad de una moneda que se necesita para comprar una unidad de otra.",
+  "category": "mercado de divisas"
+},
+{
+  "question": "¿Qué es un pip?",
+  "answer": "En el mercado Forex, un pip es la unidad mínima de cambio en el precio de una divisa.",
+  "category": "mercado de divisas"
+},
+{
+  "question": "¿Qué es un lote en Forex?",
+  "answer": "Un lote en Forex es una unidad de negociación estándar, generalmente 100.000 unidades de la divisa base.",
+  "category": "mercado de divisas"
+},
+{
+  "question": "¿Qué es el carry trade?",
+  "answer": "El carry trade es una estrategia de inversión que consiste en pedir prestado dinero en una moneda con una tasa de interés baja y prestarlo en una moneda con una tasa de interés alta.",
+  "category": "mercado de divisas"
+},
+{
+  "question": "¿Qué es la paridad de poder adquisitivo (PPP)?",
+  "answer": "La paridad de poder adquisitivo (PPP) es una teoría económica que establece que los tipos de cambio entre monedas deben ajustarse para reflejar la diferencia en los niveles de precios entre los países.",
+  "category": "mercado de divisas"
+},
+{
+  "question": "¿Qué es un bono?",
+  "answer": "Un bono es un instrumento de deuda emitido por gobiernos o empresas, que promete pagar intereses y devolver el capital al vencimiento.",
+  "category": "instrumentos financieros"
+},
+{
+  "question": "¿Qué es un rendimiento al vencimiento?",
+  "answer": "El rendimiento al vencimiento es la tasa de retorno total que un inversionista recibirá si mantiene un bono hasta su vencimiento.",
+  "category": "instrumentos financieros"
+},
+{
+  "question": "¿Qué es la duración de un bono?",
+  "answer": "La duración de un bono mide la sensibilidad del precio del bono a los cambios en las tasas de interés.",
+  "category": "instrumentos financieros"
+},
+{
+  "question": "¿Qué es una acción?",
+  "answer": "Una acción representa una propiedad parcial en una empresa.",
+  "category": "instrumentos financieros"
+},
+{
+  "question": "¿Qué es el dividendo?",
+  "answer": "Un dividendo es un pago realizado a los accionistas de una empresa a partir de sus ganancias.",
+  "category": "instrumentos financieros"
+},
+{
+  "question": "¿Qué es el precio de una acción?",
+  "answer": "El precio de una acción es el precio al que se compra o vende en el mercado bursátil.",
+  "category": "instrumentos financieros"
+},
+{
+  "question": "¿Qué es el P/E ratio?",
+  "answer": "El P/E ratio (Price-to-Earnings ratio) es una métrica financiera que relaciona el precio de una acción con sus ganancias por acción.",
+  "category": "análisis fundamental"
+},
+{
+  "question": "¿Qué es el PEG ratio?",
+  "answer": "El PEG ratio (Price/Earnings to Growth ratio) es una métrica que relaciona el P/E ratio con la tasa de crecimiento de las ganancias de una empresa.",
+  "category": "análisis fundamental"
+},
+{
+  "question": "¿Qué es el balance general?",
+  "answer": "El balance general es un estado financiero que muestra los activos, pasivos y patrimonio neto de una empresa en un momento determinado.",
+  "category": "análisis fundamental"
+},
+{
+  "question": "¿Qué es el estado de resultados?",
+  "answer": "El estado de resultados es un estado financiero que muestra los ingresos, costos y ganancias de una empresa durante un periodo determinado.",
+  "category": "análisis fundamental"
+},
+{
+  "question": "¿Qué es el flujo de caja?",
+  "answer": "El flujo de caja es un estado financiero que muestra el movimiento de efectivo de una empresa durante un periodo determinado.",
+  "category": "análisis fundamental"
+},
+{
+  "question": "¿Qué es el análisis de sentimiento del mercado?",
+  "answer": "El análisis de sentimiento del mercado mide la opinión general del mercado sobre un activo o mercado en particular, utilizando noticias, redes sociales y otros datos cualitativos.",
+  "category": "análisis de sentimiento"
+},
+{
+  "question": "¿Qué es el trading algorítmico?",
+  "answer": "El trading algorítmico utiliza programas informáticos para ejecutar automáticamente operaciones en los mercados financieros.",
+  "category": "trading avanzado"
+},
+{
+  "question": "¿Qué es el backtesting?",
+  "answer": "El backtesting consiste en probar una estrategia de trading en datos históricos para evaluar su rendimiento potencial.",
+  "category": "trading avanzado"
+},
+{
+  "question": "¿Qué es el overfitting?",
+  "answer": "El overfitting ocurre cuando una estrategia de trading se ajusta demasiado a los datos históricos y no generaliza bien a nuevos datos.",
+  "category": "trading avanzado"
+},
+{
+  "question": "¿Qué es el slippage?",
+  "answer": "El slippage es la diferencia entre el precio al que un operador espera que se ejecute una orden y el precio al que realmente se ejecuta.",
+  "category": "trading avanzado"
+},
+{
+  "question": "¿Qué es la gestión monetaria?",
+  "answer": "La gestión monetaria se refiere a las políticas y estrategias implementadas por los bancos centrales para controlar la oferta monetaria y las tasas de interés.",
+  "category": "macroeconomía"
+},
+{
+  "question": "¿Qué es la inflación?",
+  "answer": "La inflación es un aumento generalizado y sostenido en el nivel de precios de bienes y servicios en una economía.",
+  "category": "macroeconomía"
+},
+{
+  "question": "¿Qué es el PIB?",
+  "answer": "El PIB (Producto Interno Bruto) es el valor total de bienes y servicios producidos en una economía durante un periodo determinado.",
+  "category": "macroeconomía"
+},
+{
+  "question": "¿Qué es la tasa de desempleo?",
+  "answer": "La tasa de desempleo es la proporción de la fuerza laboral que está desempleada y busca trabajo.",
+  "category": "macroeconomía"
+},
+{
+  "question": "¿Qué es la política fiscal?",
+  "answer": "La política fiscal se refiere al uso de los impuestos y el gasto público por parte del gobierno para influir en la economía.",
+  "category": "macroeconomía"
+},
+{
+"question": "¿Qué es un cruce dorado?",
+"answer": "Un cruce dorado, en el contexto del análisis técnico, generalmente se refiere a la situación donde una media móvil a corto plazo (como la de 50 días) cruza por encima de una media móvil a largo plazo (como la de 200 días).  Se interpreta como una señal potencial de cambio de tendencia alcista.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué es un cruce de la muerte?",
+"answer": "Un cruce de la muerte es lo opuesto a un cruce dorado.  Ocurre cuando una media móvil a corto plazo cruza por debajo de una media móvil a largo plazo, lo que se considera una señal potencial de cambio de tendencia bajista.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué es el RSI?",
+"answer": "El RSI (Índice de Fuerza Relativa) es un oscilador de momento que mide la magnitud de los cambios recientes de precio para evaluar si un activo está sobrecomprado o sobrevendido.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué es el MACD?",
+"answer": "El MACD (Media Móvil de Convergencia-Divergencia) es un indicador de tendencia que muestra la relación entre dos medias móviles exponenciales.  Se utiliza para identificar cambios de tendencia y la fuerza de la tendencia.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué es el estocástico?",
+"answer": "El oscilador estocástico es un indicador de momento que compara el precio de cierre actual con su rango de precios durante un período determinado.  Se utiliza para identificar niveles de sobrecompra y sobreventa.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué es el volumen?",
+"answer": "El volumen representa la cantidad de un activo financiero que se negocia en un período de tiempo determinado. Es un indicador importante para confirmar la fuerza de una tendencia.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué son las bandas de Bollinger?",
+"answer": "Las bandas de Bollinger son un indicador técnico que muestra la volatilidad de un activo financiero.  Consisten en tres líneas: una media móvil y dos bandas desviadas estándar por encima y por debajo de la media móvil.",
+"category": "indicadores"
+},
+{
+"question": "¿Qué es un soporte?",
+"answer": "Un soporte es un nivel de precio en el que se espera que la presión de compra detenga una caída en el precio de un activo.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es una resistencia?",
+"answer": "Una resistencia es un nivel de precio en el que se espera que la presión de venta detenga un aumento en el precio de un activo.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un patrón de cabeza y hombros?",
+"answer": "Un patrón de cabeza y hombros es un patrón de gráfico que indica un posible cambio de tendencia bajista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un patrón de doble techo?",
+"answer": "Un patrón de doble techo es un patrón de gráfico que indica un posible cambio de tendencia bajista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un patrón de doble suelo?",
+"answer": "Un patrón de doble suelo es un patrón de gráfico que indica un posible cambio de tendencia alcista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un retroceso de Fibonacci?",
+"answer": "Un retroceso de Fibonacci es una herramienta de análisis técnico que utiliza los niveles de Fibonacci para identificar posibles zonas de soporte y resistencia.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un canal ascendente?",
+"answer": "Un canal ascendente es un patrón de gráfico que muestra una tendencia alcista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un canal descendente?",
+"answer": "Un canal descendente es un patrón de gráfico que muestra una tendencia bajista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un triángulo simétrico?",
+"answer": "Un triángulo simétrico es un patrón de gráfico que indica una consolidación de precios antes de un posible movimiento fuerte en cualquier dirección.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un triángulo ascendente?",
+"answer": "Un triángulo ascendente es un patrón de gráfico que sugiere una tendencia alcista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un triángulo descendente?",
+"answer": "Un triángulo descendente es un patrón de gráfico que sugiere una tendencia bajista.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es el análisis fundamental?",
+"answer": "El análisis fundamental evalúa el valor intrínseco de un activo considerando factores económicos, financieros y cualitativos.",
+"category": "análisis fundamental"
+},
+{
+"question": "¿Qué es el análisis técnico?",
+"answer": "El análisis técnico utiliza gráficos de precios históricos y otros indicadores para predecir futuros movimientos de precios.",
+"category": "análisis técnico"
+},
+{
+"question": "¿Qué es un stop loss?",
+"answer": "Un stop loss es una orden que limita las pérdidas potenciales en una operación de trading.",
+"category": "gestión de riesgos"
+},
+{
+"question": "¿Qué es un take profit?",
+"answer": "Un take profit es una orden que asegura las ganancias potenciales en una operación de trading.",
+"category": "gestión de riesgos"
+},
+{
+"question": "¿Qué es la diversificación?",
+"answer": "La diversificación es una estrategia de gestión de riesgos que implica invertir en una variedad de activos para reducir el riesgo general.",
+"category": "gestión de riesgos"
+},
+{
+"question": "¿Qué es un activo?",
+"answer": "Un activo es cualquier cosa que tenga valor económico.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es un pasivo?",
+"answer": "Un pasivo es una obligación financiera.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es el capital?",
+"answer": "El capital es la diferencia entre los activos y los pasivos de una empresa o individuo.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es la liquidez?",
+"answer": "La liquidez se refiere a la facilidad con la que un activo se puede comprar o vender sin afectar significativamente su precio.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es la volatilidad?",
+"answer": "La volatilidad mide la fluctuación en el precio de un activo.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es un mercado alcista?",
+"answer": "Un mercado alcista es un mercado en el que los precios tienden a subir.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es un mercado bajista?",
+"answer": "Un mercado bajista es un mercado en el que los precios tienden a bajar.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es un mercado lateral?",
+"answer": "Un mercado lateral es un mercado en el que los precios se mueven dentro de un rango limitado.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es una orden de mercado?",
+"answer": "Una orden de mercado se ejecuta al precio de mercado actual.",
+"category": "tipos de ordenes"
+},
+{
+"question": "¿Qué es una orden límite?",
+"answer": "Una orden límite se ejecuta solo cuando el precio alcanza un nivel específico.",
+"category": "tipos de ordenes"
+},
+{
+"question": "¿Qué es una orden stop?",
+"answer": "Una orden stop se convierte en una orden de mercado cuando el precio alcanza un nivel específico.",
+"category": "tipos de ordenes"
+},
+{
+"question": "¿Qué es un contrato de futuros?",
+"answer": "Un contrato de futuros es un acuerdo para comprar o vender un activo a un precio determinado en una fecha futura.",
+"category": "instrumentos financieros"
+},
+{
+"question": "¿Qué es una opción?",
+"answer": "Una opción es un contrato que da al comprador el derecho, pero no la obligación, de comprar o vender un activo a un precio determinado en o antes de una fecha determinada.",
+"category": "instrumentos financieros"
+},
+{
+"question": "¿Qué es un ETF?",
+"answer": "Un ETF (Exchange Traded Fund) es un fondo que cotiza en bolsa y rastrea un índice, una mercancía o una estrategia de inversión.",
+"category": "instrumentos financieros"
+},
+{
+"question": "¿Qué es un CFD?",
+"answer": "Un CFD (Contrato por Diferencia) es un contrato entre un operador y un bróker para intercambiar la diferencia en el valor de un activo subyacente.",
+"category": "instrumentos financieros"
+},
+{
+"question": "¿Qué es el apalancamiento?",
+"answer": "El apalancamiento permite a los operadores controlar una posición mayor de lo que tienen en su cuenta de trading.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es el margen?",
+"answer": "El margen es el depósito de garantía requerido para abrir y mantener una posición apalancada.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué es un spread?",
+"answer": "El spread es la diferencia entre el precio de compra y el precio de venta de un instrumento financiero.",
+"category": "conceptos básicos"
+},
+{
+"question": "¿Qué son las comisiones?",
+"answer": "Las comisiones son los costos que cobran los brókers por realizar operaciones de trading.",
+"category": "conceptos básicos"
+},
+{
+  "question": "¿Qué es un índice bursátil?",
+  "answer": "Un índice bursátil mide el rendimiento de un grupo de acciones que representan un mercado o sector particular.",
+  "category": "mercados financieros"
+}
+  ]
