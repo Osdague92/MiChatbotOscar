@@ -8,9 +8,23 @@ from nltk.corpus import stopwords
 import numpy as np
 import unicodedata
 
-# Descargar stopwords
-nltk.download('stopwords')
-stop_words_es = stopwords.words('spanish')
+# Descargar stopwords si es necesario (y evitar fallos si no hay conectividad)
+def load_spanish_stopwords():
+    try:
+        nltk.data.find('corpora/stopwords')
+    except LookupError:
+        try:
+            nltk.download('stopwords', quiet=True)
+        except Exception:
+            return []
+
+    try:
+        return stopwords.words('spanish')
+    except LookupError:
+        return []
+
+
+stop_words_es = load_spanish_stopwords()
 
 # Clase centralizada para el modelo de chatbot
 class ChatModel:
